@@ -19,7 +19,7 @@ To view the app, open the Github Pages link provided below on the README. Here i
     <li>CSS</li>
     <li>Javascript</li>
 </ul>
-<hl>Contact information.</hl>
+<h1>Contact information.</h1>
 marymajanja3@gmail.com
 <hl>License and Copyright information.</hl>
 Copyright (c) 2021 Mary Majanja
