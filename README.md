@@ -15,11 +15,12 @@ To view the app, open the Github Pages link provided below on the README. Here i
 
 BDD.
 <h1>Technologies used.</h1>
-    HTML
-    CSS
-    Javascript
+    *HTML
+    *CSS
+    *Javascript
 
 <hl>Contact information.</hl>
 marymajanja3@gmail.com
+
 <hl>License and Copyright information.</hl>
 Copyright (c) 2021 Mary Majanja
