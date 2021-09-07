@@ -15,9 +15,11 @@ To view the app, open the Github Pages link provided below on the README. Here i
 
 BDD.
 <h1>Technologies used.</h1>
-    *HTML
-    *CSS
-    *Javascript
+<ul>
+    <li>Html</li>
+    <li>CSS</li>
+    <li>Javascript</li>
+</ul>
 
 <hl>Contact information.</hl>
 marymajanja3@gmail.com
