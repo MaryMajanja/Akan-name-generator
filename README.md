@@ -21,5 +21,5 @@ To view the app, open the Github Pages link provided below on the README. Here i
 </ul>
 <h1>Contact information.</h1>
 marymajanja3@gmail.com
-<hl>License and Copyright information.</hl>
+<h1>ense and Copyright information.</h1>
 Copyright (c) 2021 Mary Majanja
